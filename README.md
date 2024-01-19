@@ -1,16 +1,23 @@
-# rudimentary_social_network
+# Rudimentary Social Network
 
-A new Flutter project.
+Here is a video demo of the application:
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/Jacob-Landicho/Rudimentary-Social-Network/assets/157124290/4838839f-786d-4c77-b8dd-5f02a57f0d5e
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+## Description
+
+This application allows the user to upvote, downvote and view a graph of the posts. Addtionally the user may sort the posts by upvotes, downvotes or title.
+
+
+## Project Tools
+This project was created using:
+
+- Flutter
+- Android Studio
